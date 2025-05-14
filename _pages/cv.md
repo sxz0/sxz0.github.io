@@ -69,10 +69,9 @@ Conferences and Talks
   
 Awards and Achievements
 ======
-* National Young Researcher Award in Computer Science 2024 – BBVA Foundation and SCIE
-  * https://www.fbbva.es/galardonados/pedro-miguel-sanchez-sanchez/
-* Outstanding PhD Thesis Award 2024 – University of Murcia  
-* Elsevier Computer Networks Best Paper Award 2024  
+* National Young Researcher Award in Computer Science 2024 – BBVA Foundation and SCIE [Link](https://www.fbbva.es/galardonados/pedro-miguel-sanchez-sanchez/)
+* Outstanding PhD Thesis Award 2024 – University of Murcia 
+* Elsevier Computer Networks Best Paper Award 2024 
 * Udacity Secure and Private AI Nanodegree Scholarship (Facebook), 2019
 
 Service and Volunteering
