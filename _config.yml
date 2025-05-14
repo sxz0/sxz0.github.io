@@ -38,9 +38,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6444-2102"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : ""
-  scopus           : "https://www.researchgate.net/profile/Pedro-Miguel-Sanchez-2"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Pedro-Miguel-Sanchez-2"
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
