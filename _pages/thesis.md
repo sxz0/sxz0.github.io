@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "PhD Thesis"
 permalink: /thesis/
 author_profile: true
