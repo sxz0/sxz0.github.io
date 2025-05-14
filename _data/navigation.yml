@@ -24,6 +24,9 @@ main:
     url: /year-archive/
     
   - title: "CV"
+    url: /cv/
+
+  - title: "Download CV"
     url: /files/CV_Pedro_Miguel_Sanchez.pdf
     
   # - title: "CV"
