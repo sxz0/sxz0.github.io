@@ -77,4 +77,5 @@ Awards and Achievements
 
 Service and Volunteering
 ======
+* Conference committee: ECAI'24 '25
 * Conference volunteer/grant recipient: AAAI’23, ACM SIGCOMM’23, IEEE NOMS’22
