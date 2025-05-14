@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Education
 ======
 * Ph.D. in Computer Science, Cum Laude. University of Murcia, 2024  
