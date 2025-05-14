@@ -11,7 +11,7 @@ Tutorial session related to my PhD Thesis at NOMS 2022
 
 [Link](https://www.cnsm-conf.org/2021/tutorial.html)
 
-Alberto Huertas<sup>1</sup>, Pedro M. Sánchez<sup>2</sup>, Muriel Franco<sup>1</sup>, Bruno Rodrigues<sup>1</sup>, Gérôme Bovet<sup>3</sup>, Gregorio Martínez<sup>2</sup>, Burkhard Stiller<sup>1</sup>
+Alberto Huertas<sup>1</sup>, Pedro M. Sánchez<sup>2</sup>, Muriel Franco<sup>1</sup>, Gérôme Bovet<sup>3</sup>, Gregorio Martínez<sup>2</sup>, Burkhard Stiller<sup>1</sup>
 
 <sup>1</sup> Communication Systems Group CSG, Department of Informatics IfI, University of Zurich UZH, Switzerland
 <sup>2</sup> Department of Information and Communications Engineering, University of Murcia, Spain
