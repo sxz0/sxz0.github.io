@@ -22,22 +22,18 @@ Education
 
 Work experience
 ======
-* Nov 2024 – Present: Senior Researcher  
-  * Funditec (Advantx Technology Foundation), Madrid, Spain  
+* Nov 2024 – Present: Senior Researcher, Funditec (Advantx Technology Foundation)  
   * Applied ML/DL and cybersecurity research  
   * Proposal writing and project execution (national and European grants)
 
-* Feb 2024 – Nov 2024: Postdoctoral Researcher  
-  * University of Murcia, Spain  
+* Feb 2024 – Nov 2024: Postdoctoral Researcher, University of Murcia
   * Federated Learning methods and trustworthy AI  
   * Contributor to EU-GUARDIAN EDF and ROBUST-6G Horizon projects
 
-* Sept–Dec 2021 & 2022: Visiting Researcher  
-  * Cyber-Defence Campus, armasuisse S&T, Thun, Switzerland  
-  * Six months in total as part of PhD research
+* Sept–Dec 2021 & 2022: Visiting Researcher, Cyber-Defence Campus - armasuisse S&T 
+  * Six month research visit as part of PhD research
 
-* Sept 2019 – Feb 2024: Predoctoral Researcher  
-  * University of Murcia, Spain  
+* Sept 2019 – Feb 2024: Predoctoral Researcher, University of Murcia  
   * Research on IoT device modeling for identification and cyberattack detection
   
 Skills
