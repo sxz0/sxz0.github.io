@@ -22,6 +22,7 @@ Education
   * Graduated with honors. Networking Specialization  
   * Thesis: Continuous authentication for mobile devices
 
+<br>
 
 Work experience
 ======
@@ -39,6 +40,7 @@ Work experience
 * Sept 2019 – Feb 2024: **Predoctoral Researcher, University of Murcia** 
   * Research on IoT device modeling for identification and cyberattack detection
 
+<br>
 
 Awards and Achievements
 ======
@@ -47,12 +49,7 @@ Awards and Achievements
 * Elsevier **Computer Networks Best Paper Award** 2024 
 * Udacity Secure and Private AI Nanodegree Scholarship (Facebook), 2019
 
-
-Service and Volunteering
-======
-* Conference committee: ECAI'24 '25
-* Conference volunteer/grant recipient: AAAI’23, ACM SIGCOMM’23, IEEE NOMS’22
-
+<br>
 
 Skills
 ======
@@ -69,6 +66,14 @@ Skills
   * HuggingFace NLP
   * HuggingFace Computer Vision
 
+<br>
+
+Service and Volunteering
+======
+* Conference committee: ECAI'24 '25
+* Conference volunteer/grant recipient: AAAI’23, ACM SIGCOMM’23, IEEE NOMS’22
+
+<br>
 
 Publications
 ======
@@ -76,7 +81,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+<br>
+
 Conferences and Talks
 ======
   <ul>{% for post in site.talks reversed %}
