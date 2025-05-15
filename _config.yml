@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pedro Miguel / Senior Researcher"
+title                    : "Pedro Miguel Sánchez / Senior Researcher"
 title_separator          : "-"
 name                     : &name "Pedro Miguel Sánchez Sánchez"
 description              : &description "Senior Researcher — AI, Federated Learning, Cybersecurity & Secure Distributed Systems"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/sanchezsanchez_p_1.html" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=RMS2xxkAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6444-2102"
