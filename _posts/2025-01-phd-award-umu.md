@@ -1,7 +1,7 @@
 ---
 title: 'Extraordinary PhD Award in Computer Science – University of Murcia'
 date: 2025-01-29
-permalink: /posts/2024/12/phd-award-umu/
+permalink: /posts/2025/01/phd-award-umu/
 tags:
   - research
   - phd
