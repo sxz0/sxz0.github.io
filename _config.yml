@@ -13,7 +13,7 @@ title                    : "Pedro Miguel / Senior Researcher"
 title_separator          : "-"
 name                     : &name "Pedro Miguel Sánchez Sánchez"
 description              : &description "Senior Researcher — AI, Federated Learning, Cybersecurity & Secure Distributed Systems"
-url                      : https://sxz0.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://pedromiguel.me # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sxz0/sxz0.github.io"
 
