@@ -40,7 +40,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Pedro-Miguel-Sanchez-2"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56371197300" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
