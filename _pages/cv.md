@@ -22,6 +22,7 @@ Education
   * Graduated with honors. Networking Specialization  
   * Thesis: Continuous authentication for mobile devices
 
+
 Work experience
 ======
 * Nov 2024 – Present: **Senior Researcher, Funditec** (Advantx Technology Foundation)  
@@ -37,7 +38,22 @@ Work experience
 
 * Sept 2019 – Feb 2024: **Predoctoral Researcher, University of Murcia** 
   * Research on IoT device modeling for identification and cyberattack detection
-  
+
+
+Awards and Achievements
+======
+* **National Young Researcher Award in Computer Science 2024** – BBVA Foundation and SCIE [Link](https://www.fbbva.es/galardonados/pedro-miguel-sanchez-sanchez/)
+* **Outstanding PhD Thesis Award** 2024 – University of Murcia 
+* Elsevier **Computer Networks Best Paper Award** 2024 
+* Udacity Secure and Private AI Nanodegree Scholarship (Facebook), 2019
+
+
+Service and Volunteering
+======
+* Conference committee: ECAI'24 '25
+* Conference volunteer/grant recipient: AAAI’23, ACM SIGCOMM’23, IEEE NOMS’22
+
+
 Skills
 ======
 * Federated Learning
@@ -53,26 +69,17 @@ Skills
   * HuggingFace NLP
   * HuggingFace Computer Vision
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Conferences and Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Awards and Achievements
-======
-* **National Young Researcher Award in Computer Science 2024** – BBVA Foundation and SCIE [Link](https://www.fbbva.es/galardonados/pedro-miguel-sanchez-sanchez/)
-* **Outstanding PhD Thesis Award** 2024 – University of Murcia 
-* Elsevier **Computer Networks Best Paper Award** 2024 
-* Udacity Secure and Private AI Nanodegree Scholarship (Facebook), 2019
 
-Service and Volunteering
-======
-* Conference committee: ECAI'24 '25
-* Conference volunteer/grant recipient: AAAI’23, ACM SIGCOMM’23, IEEE NOMS’22
