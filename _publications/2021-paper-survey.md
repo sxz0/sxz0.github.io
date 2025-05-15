@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-device-fingerprinting-survey
 excerpt: 'Comprehensive review of behavioral fingerprinting for IoT devices, including techniques, data sources, and application domains.'
 date: 2021-03-01
-venue: 'IEEE Communications Surveys & Tutorials, 23(2), 1048–1077. IF: 33.84 (D1)'
+venue: 'IEEE Communications Surveys & Tutorials, 23(2), 1048–1077'
 paperurl: 'https://dx.doi.org/10.1109/COMST.2021.3064259'
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2021). "A survey on device behavior fingerprinting: Data sources, techniques, application scenarios, and datasets." <i>IEEE Communications Surveys & Tutorials</i>, 23(2), 1048–1077.'
 ---
