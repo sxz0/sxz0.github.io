@@ -26,7 +26,10 @@ Education
 
 Work experience
 ======
-* Nov 2024 – Present: **Senior Researcher, Funditec** (Advantx Technology Foundation)  
+* Sept 2025 – Now: **Data Scientist, Roche**
+  * AI application to business use cases
+    
+* Nov 2024 – Aug 2025: **Senior Researcher, Funditec** (Advantx Technology Foundation)  
   * Applied ML/DL and cybersecurity research  
   * Proposal writing and project execution (national and European grants)
 
