@@ -2,14 +2,14 @@
 title: "Theoretical and Practical Intelligent Behavioral Fingerprinting"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2022-04-25-tutorial-NOMS.md
+permalink: /talks/2022-04-25-tutorial-NOMS
 venue: "IEEE/IFIP Network Operations and Management Symposium"
 date: 2022-04-25
 location: "Budapest, Hungary"
 ---
 Tutorial session related to my PhD Thesis at NOMS 2022
 
-[Link](https://www.cnsm-conf.org/2021/tutorial.html)
+[Link](https://www.csg.uzh.ch/publications/details.php?id=1565)
 
 Alberto Huertas<sup>1</sup>, Pedro M. Sánchez<sup>2</sup>, Muriel Franco<sup>1</sup>, Gérôme Bovet<sup>3</sup>, Gregorio Martínez<sup>2</sup>, Burkhard Stiller<sup>1</sup>
 
