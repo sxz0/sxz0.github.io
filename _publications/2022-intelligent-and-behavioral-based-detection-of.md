@@ -1,0 +1,15 @@
+---
+title: "Intelligent and behavioral-based detection of malware in IoT spectrum sensors"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-intelligent-and-behavioral-based-detection-of
+excerpt: 'The number of Cyber-Physical Systems (CPS) available in industrial environments is growing mainly due to the evolution of the Internet-of-Things (IoT) paradigm. In such a context, radio frequency spectrum sensing in…'
+date: 2022-07-29
+venue: 'International Journal of Information Security, 22(3), 541-561'
+paperurl: 'https://doi.org/10.1007/s10207-022-00602-w'
+authors: 'Huertas Celdrán, Alberto and Sánchez Sánchez, Pedro Miguel and Azorín Castillo, Miguel and Bovet, Gérôme and Martínez Pérez, Gregorio and Stiller, Burkhard'
+topics: iot-security
+citation: 'Celdrán, Alberto Huertas, Sánchez Sánchez, Pedro Miguel, Azorín Castillo, Miguel, Bovet, Gérôme, Martínez Pérez, Gregorio, & Stiller, Burkhard. (2022). "Intelligent and behavioral-based detection of malware in IoT spectrum sensors." <i>International Journal of Information Security</i>, 22(3), 541-561.'
+---
+
+The number of Cyber-Physical Systems (CPS) available in industrial environments is growing mainly due to the evolution of the Internet-of-Things (IoT) paradigm. In such a context, radio frequency spectrum sensing in industrial scenarios is one of the most interesting applications of CPS due to the scarcity of the spectrum. Despite the benefits of operational platforms, IoT spectrum sensors are vulnerable to heterogeneous malware. The usage of behavioral fingerprinting and machine learning has shown merit in detecting cyberattacks. Still, there exist challenges in terms of (i) designing, deploying, and evaluating ML-based fingerprinting solutions able to detect malware attacks affecting real IoT spectrum sensors, (ii) analyzing the suitability of kernel events to create stable and precise fingerprints of spectrum sensors, and (iii) detecting recent malware samples affecting real IoT spectrum sensors of crowdsensing platforms. Thus, this work presents a detection framework that applies device behavioral fingerprinting and machine learning to detect anomalies and classify different botnets, rootkits, backdoors, ransomware and cryptojackers affecting real IoT spectrum sensors. Kernel events from CPU, memory, network, file system, scheduler, drivers, and random number generation have been analyzed, selected, and monitored to create device behavioral fingerprints. During testing, an IoT spectrum sensor of the ElectroSense platform has been infected with ten recent malware samples (two botnets, three rootkits, three backdoors, one ransomware, and one cryptojacker) to measure the detection performance of the framework in two different network configurations. Both supervised and semi-supervised approaches provided promising results when detecting and classifying malicious behaviors from the eight previous malware and seven normal behaviors. In particular, the framework obtained 0.88–0.90 true positive rate when detecting the previous malicious behaviors as unseen or zero-day attacks and 0.94–0.96 F 1-score when classifying them.

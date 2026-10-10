@@ -79,11 +79,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  reports:
+    title: 'White Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -180,6 +182,13 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
+  - CONTRIBUTING.md
+  - markdown_generator
+  - scripts
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
   - Gemfile
   - Gruntfile.js
   - gulpfile.js

@@ -1,0 +1,15 @@
+---
+title: "A Trustworthy Federated Learning Framework for Individual Device Identification"
+collection: publications
+category: conferences
+permalink: /publication/2023-a-trustworthy-federated-learning-framework-fo
+excerpt: 'IoT scenarios face cybersecurity concerns due to unauthorized devices that can impersonate legitimate ones by using identical software and hardware configurations. This can lead to sensitive information leaks, data…'
+date: 2023-06-21
+venue: '2023 JNIC Cybersecurity Conference (JNIC), 1-8'
+paperurl: 'https://doi.org/10.23919/JNIC58574.2023.10205950'
+authors: 'Sánchez Sánchez, Pedro Miguel and Huertas Celdrán, Alberto and Bovet, Gérôme and Martínez Pérez, Gregorio and Stiller, Burkhard'
+topics: federated-learning, trustworthy-ai
+citation: 'Sánchez Sánchez, Pedro Miguel, Huertas Celdrán, Alberto, Bovet, Gérôme, Martínez Pérez, Gregorio, & Stiller, Burkhard. (2023). "A Trustworthy Federated Learning Framework for Individual Device Identification." <i>2023 JNIC Cybersecurity Conference (JNIC)</i>, 1-8.'
+---
+
+IoT scenarios face cybersecurity concerns due to unauthorized devices that can impersonate legitimate ones by using identical software and hardware configurations. This can lead to sensitive information leaks, data poisoning, or privilege escalation. Behavioral fingerprinting and ML/DL techniques have been used in the literature to identify devices based on performance differences caused by manufacturing imperfections. In addition, using Federated Learning to maintain data privacy is also a challenge for IoT scenarios. Federated Learning allows multiple devices to collaboratively train a machine learning model without sharing their data, but it requires addressing issues such as communication latency, heterogeneity of devices, and data security concerns. In this sense, Trustworthy Federated Learning has emerged as a potential solution, which combines privacy-preserving techniques and metrics to ensure data privacy, model integrity, and secure communication between devices. Therefore, this work proposes a trustworthy federated learning framework for individual device identification. It first analyzes the existing metrics for trustworthiness evaluation in FL and organizes them into six pillars (privacy, robustness, fairness, explainability, accountability, and federation) for computing the trustworthiness of FL models. The framework presents a modular setup where one component is in charge of the federated model generation and another one is in charge of trustworthiness evaluation. The framework is validated in a real scenario composed of 45 identical Raspberry Pi devices whose hardware components are monitored to generate individual behavior fingerprints. The solution achieves a 0.9724 average F1-Score in the identification on a centralized setup, while the average F1-Score in the federated setup is 0.8320. Besides, a 0.6 final trustworthiness score is achieved by the model on state-of-the-art metrics, indicating that further privacy and robustness techniques are required to improve this score.

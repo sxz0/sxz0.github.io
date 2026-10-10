@@ -66,21 +66,46 @@
 
   // ---------- Cite (BibTeX) buttons ----------
   var esc = function (s) { return (s || '').replace(/[{}]/g, ''); };
+  var accents = { '\u00e1': "{\\'a}", '\u00e9': "{\\'e}", '\u00ed': "{\\'\\i}", '\u00f3': "{\\'o}", '\u00fa': "{\\'u}", '\u00f1': '{\\~n}', '\u00c1': "{\\'A}", '\u00c9': "{\\'E}", '\u00cd': "{\\'I}", '\u00d3': "{\\'O}", '\u00da': "{\\'U}", '\u00e7': '{\\c c}', '\u00f4': '{\\^o}', '\u00fc': '{\\"u}', '\u00e4': '{\\"a}', '\u00f6': '{\\"o}' };
+  var tex = function (s) { return s.replace(/[^\x00-\x7f]/g, function (c) { return accents[c] || c; }); };
   var bibtex = function (el) {
     var cat = el.dataset.category, year = el.dataset.year;
     var title = esc(el.dataset.title), venue = esc(el.dataset.venue);
     var key = 'sanchez' + year + (title.split(/\W+/).filter(function (w) { return w.length > 3; })[0] || 'paper').toLowerCase();
-    var type = cat === 'conferences' ? 'inproceedings' : 'article';
-    var venueField = cat === 'conferences' ? 'booktitle' : 'journal';
+    var map = {
+      conferences: ['inproceedings', 'booktitle'],
+      books: ['incollection', 'booktitle'],
+      reports: ['techreport', 'institution'],
+      manuscripts: ['article', 'journal']
+    };
+    var t = map[cat] || map.manuscripts;
+    var authors = el.dataset.authors || 'S\u00e1nchez S\u00e1nchez, Pedro Miguel and others';
     var url = el.dataset.doi;
+    var fields = [];
+    var tidy = function (v) { return tex(v).replace(/([&%#_])/g, '\\$1'); };
+    var parts = venue.split(', ');
+    if (cat === 'manuscripts') {
+      // venue looks like "Journal Name, 54(8), 6637-6653" or "Journal Name, 152, 83-98" or "Journal Name"
+      fields.push(['journal', parts.shift()]);
+      var m = (parts[0] || '').match(/^(\d+)(?:\((\d+)\))?$/);
+      if (m) { fields.push(['volume', m[1]]); if (m[2]) fields.push(['number', m[2]]); parts.shift(); }
+      if (parts.length) fields.push(['pages', parts.join(', ').replace(/(\d)[\u2013-](\d)/, '$1--$2')]);
+    } else if (cat === 'conferences' || cat === 'books') {
+      var last = parts[parts.length - 1];
+      var pg = parts.length > 1 && /^[\d\u2013-]+$/.test(last) ? parts.pop() : null;
+      fields.push(['booktitle', parts.join(', ')]);
+      if (pg) fields.push(['pages', pg.replace(/(\d)[\u2013-](\d)/, '$1--$2')]);
+    } else {
+      fields.push([t[1], venue]);
+    }
     var lines = [
-      '@' + type + '{' + key + ',',
-      '  author    = {S{\\\'a}nchez S{\\\'a}nchez, Pedro Miguel and others},',
-      '  title     = {{' + title + '}},',
-      '  ' + venueField + ' = {' + venue + '},',
-      '  year      = {' + year + '},'
+      '@' + t[0] + '{' + key + ',',
+      '  author = {' + tex(authors) + '},',
+      '  title = {{' + tidy(title) + '}},'
     ];
-    if (url) lines.push('  url       = {' + url + '},');
+    fields.forEach(function (f) { lines.push('  ' + f[0] + ' = {' + tidy(f[1]) + '},'); });
+    lines.push('  year = {' + year + '},');
+    if (url) lines.push('  url = {' + url + '},');
     lines.push('}');
     return lines.join('\n');
   };

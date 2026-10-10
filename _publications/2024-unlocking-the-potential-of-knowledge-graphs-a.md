@@ -1,0 +1,15 @@
+---
+title: "Unlocking the Potential of Knowledge Graphs: A Cyber Defense Ontology for a Knowledge Representation and Reasoning System"
+collection: publications
+category: conferences
+permalink: /publication/2024-unlocking-the-potential-of-knowledge-graphs-a
+excerpt: 'In today’s dynamic and complex warfare landscape, characterized by the convergence of traditional and emerging threats, the significance of cybersecurity in shaping modern conflicts cannot be overstated. Such trend…'
+date: 2024-07-30
+venue: 'Proceedings of the 19th International Conference on Availability, Reliability and Security, 1-9'
+paperurl: 'https://doi.org/10.1145/3664476.3670916'
+authors: 'Jorquera Valero, José María and López Martínez, Antonio and Sánchez Sánchez, Pedro Miguel and Navarro Martínez, Daniel and Varas López, Rodrigo and Rojo Lacal, Javier Ignacio and López Vivar, Antonio and Sotelo Monge, Marco Antonio and Gil Pérez, Manuel and Martínez Pérez, Gregorio'
+topics: iot-security
+citation: 'Jorquera Valero, José María, López Martínez, Antonio, Sánchez Sánchez, Pedro Miguel, Navarro Martínez, Daniel, Varas López, Rodrigo, Rojo Lacal, Javier Ignacio, López Vivar, Antonio, Sotelo Monge, Marco Antonio, Gil Pérez, Manuel, & Martínez Pérez, Gregorio. (2024). "Unlocking the Potential of Knowledge Graphs: A Cyber Defense Ontology for a Knowledge Representation and Reasoning System." <i>Proceedings of the 19th International Conference on Availability, Reliability and Security</i>, 1-9.'
+---
+
+In today’s dynamic and complex warfare landscape, characterized by the convergence of traditional and emerging threats, the significance of cybersecurity in shaping modern conflicts cannot be overstated. Such trend presents a challenging paradigm shift in how military organizations approach mosaic warfare in the digital age since new attack vectors and targets appear in their landscapes. In this vein, it is pivotal for military teams to have a clear and concise roadmap for cybersecurity incidents linked to potential mosaic warfare. This manuscript introduces a novel approach to bolstering mosaic warfare strategies by integrating an advanced Knowledge Representation and Reasoning system and a tailored ontology. Motivated by the critical role of cybersecurity in contemporary warfare, the proposed system aims to enhance situational awareness, decision-making capabilities, and operational effectiveness in the face of evolving cyber threats. In this sense, this manuscript entails a new ontology that not only covers the cybersecurity realm but also introduces key concepts related to strategic and operational military levels at the same time. The ad-hoc ontology is also compared against other well-known ones, such as MITRE, NATO, or UCO approaches and manifests a significant performance by employing standardized quality metrics for ontologies. Lastly, a realistic mosaic warfare scenario is contextualized to demonstrate the deployment of the proposed system and how it can properly represent all information gathered from heterogeneous data sources.
