@@ -7,6 +7,7 @@ excerpt: 'Analyzes adversarial robustness of ML and hardware-based fingerprintin
 date: 2024-02-01
 venue: 'Future Generation Computer Systems, 152, 30–42'
 paperurl: 'https://dx.doi.org/10.1016/j.future.2023.10.011'
+topics: iot-security
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2024). "Adversarial attacks and defenses on ML-and hardware-based IoT device fingerprinting and identification." <i>Future Generation Computer Systems</i>, 152, 30–42.'
 ---
 

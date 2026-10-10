@@ -7,6 +7,7 @@ excerpt: 'Proposes a methodology to uniquely identify SBCs using low-level hardw
 date: 2023-06-01
 venue: 'Journal of Network and Computer Applications, 103579'
 paperurl: 'https://dx.doi.org/10.1016/j.jnca.2022.103579'
+topics: iot-security
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2023). "A methodology to identify identical single-board computers based on hardware behavior fingerprinting." <i>Journal of Network and Computer Applications</i>, 103579.'
 ---
 

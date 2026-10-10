@@ -7,6 +7,7 @@ excerpt: 'An online reinforcement learning framework that uses behavioral finger
 date: 2024-05-15
 venue: 'IEEE Transactions on Information Forensics and Security, 19, 5520–5529'
 paperurl: 'https://doi.org/10.1109/TIFS.2024.3402055'
+topics: iot-security
 citation: 'Huertas Celdrán, Alberto, Sánchez Sánchez, Pedro Miguel, et al. (2024). "RL and Fingerprinting to Select Moving Target Defense Mechanisms for Zero-Day Attacks in IoT." <i>IEEE Transactions on Information Forensics and Security</i>, 19, 5520–5529.'
 ---
 

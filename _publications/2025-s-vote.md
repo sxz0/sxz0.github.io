@@ -7,6 +7,7 @@ excerpt: 'S-VOTE proposes a decentralized client selection strategy based on sim
 date: 2025-06-30
 venue: 'IEEE International Joint Conference on Neural Networks (IJCNN) 2025'
 paperurl: 'https://arxiv.org/abs/2501.19279'  
+topics: federated-learning
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2025). "S-VOTE: Similarity-based Voting for Client Selection in Decentralized Federated Learning." <i>IEEE IJCNN 2025</i>.'
 ---
 

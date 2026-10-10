@@ -7,6 +7,7 @@ excerpt: 'ProFe introduces a novel communication optimization algorithm for dece
 date: 2025-06-10
 venue: 'IEEE International Conference on Communications (ICC) 2025'
 paperurl: 'https://arxiv.org/abs/2412.11207'
+topics: federated-learning
 citation: 'Sánchez Sánchez, Pedro Miguel, Martínez Beltrán, Enrique Tomás, Fernández Llamas, Miguel, Bovet, Gérôme, Martínez Pérez, Gregorio, & Huertas Celdrán, Alberto. (2025). "ProFe: Communication-Efficient Decentralized Federated Learning via Distillation and Prototypes." <i>IEEE ICC 2025</i>, 1596–1601.'
 ---
 

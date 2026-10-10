@@ -20,6 +20,35 @@ Feel free to explore, cite, or reach out for collaborations related to secure AI
 
 
 
+Latest news
+======
+<ul class="home-news">
+{% for post in site.posts limit:4 %}
+  <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+<a href="/year-archive/">All posts &rarr;</a>
+
+Awards
+======
+<div class="award-grid">
+  <div class="award-card">
+    <img src="/images/PREMIOS-INFORMATICA-SCIE_FBBVA.jpg" alt="National Young Researcher Award in Computer Science 2024" loading="lazy">
+    <strong>National Young Researcher Award in Computer Science</strong>
+    <span>SCIE &amp; BBVA Foundation, 2024</span>
+  </div>
+  <div class="award-card">
+    <img src="/images/phd_award_umu.jpeg" alt="Extraordinary PhD Award, University of Murcia" loading="lazy">
+    <strong>Extraordinary PhD Award in Computer Science</strong>
+    <span>University of Murcia, 2024</span>
+  </div>
+  <div class="award-card">
+    <img src="/images/comnet_award.jpeg" alt="Computer Networks Best Paper Award 2024" loading="lazy">
+    <strong>Computer Networks Best Paper Award</strong>
+    <span>Elsevier, 2024</span>
+  </div>
+</div>
+
 Contact & Profiles
 ======
 - [Email](mailto:pedromiguelsanchezsanchez@gmail.com)

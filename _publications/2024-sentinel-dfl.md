@@ -7,6 +7,7 @@ excerpt: 'Sentinel is a defense against poisoning attacks in decentralized feder
 date: 2024-10-19
 venue: 'European Conference on Artificial Intelligence (ECAI) 2024'
 paperurl: 'https://doi.org/10.3233/FAIA240686'
+topics: federated-learning, iot-security
 citation: 'Feng, Chao, Huertas Celdrán, Alberto, Baltensperger, Janosch, Martínez Beltrán, Enrique Tomás, Sánchez Sánchez, Pedro Miguel, Bovet, Gérôme, & Stiller, Burkhard. (2024). "Sentinel: An Aggregation Function to Secure Decentralized Federated Learning." In <i>ECAI 2024</i>, Frontiers in Artificial Intelligence and Applications, 392, 1760–1767. IOS Press.'
 ---
 

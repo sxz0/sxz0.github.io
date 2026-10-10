@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+<nav class="section-nav" aria-label="CV sections">
+  <a href="#work-experience">Experience</a>
+  <a href="#education">Education</a>
+  <a href="#research">Research</a>
+  <a href="#awards-and-achievements">Awards</a>
+  <a href="#skills">Skills</a>
+  <a href="#service-and-volunteering">Service</a>
+  <a href="#publications">Publications</a>
+  <a href="#conferences-and-talks">Talks</a>
+</nav>
+
 Data Scientist building production recommender systems at Roche, where I own personalisation for global Diagnostics sales teams. PhD Cum Laude (University of Murcia, armasuisse S&T collaboration) on ML-based detection of compromised and spoofed devices, including adversarial attacks and defences against detection models. I followed as a postdoc on distributed and trustworthy AI, spanning Federated Learning, security, and model explainability. National Young Researcher Award in Computer Science, 2024.
 
 Work experience

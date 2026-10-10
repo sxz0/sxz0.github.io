@@ -7,6 +7,7 @@ excerpt: 'Fedstellar is a platform for training decentralized, semi-decentralize
 date: 2023-08-19
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI-23), Demo Track'
 paperurl: 'https://doi.org/10.24963/ijcai.2023/838'
+topics: federated-learning
 citation: 'Martínez Beltrán, Enrique Tomás, Sánchez Sánchez, Pedro Miguel, et al. (2023). "Fedstellar: A Platform for Training Models in a Privacy-preserving and Decentralized Fashion." In <i>Proceedings of IJCAI-23</i>, Demo Track, 7154–7157.'
 ---
 

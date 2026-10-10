@@ -7,6 +7,7 @@ excerpt: 'Proposes SpecForce, a framework for protecting spectrum sensors agains
 date: 2022-09-01
 venue: 'IEEE Communications Magazine'
 paperurl: 'https://dx.doi.org/10.1109/MCOM.001.2200349, 61, 5'
+topics: iot-security
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2022). "SpecForce: A Framework to Secure IoT Spectrum Sensors in the Internet of Battlefield Things." <i>IEEE Communications Magazine</i>.'
 ---
 

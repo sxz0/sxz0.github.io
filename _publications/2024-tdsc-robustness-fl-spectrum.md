@@ -7,6 +7,7 @@ excerpt: 'Dataset and experimental study on the robustness of federated learning
 date: 2024-03-01
 venue: 'IEEE Transactions on Dependable and Secure Computing, 21(2), 573–584'
 paperurl: 'https://doi.org/10.1109/TDSC.2022.3204535'
+topics: federated-learning, iot-security
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2024). "Studying the Robustness of Anti-Adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors." <i>IEEE Transactions on Dependable and Secure Computing</i>, 21(2), 573–584.'
 ---
 

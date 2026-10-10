@@ -7,6 +7,7 @@ excerpt: 'Flighter trains decentralized federated learning models for enemy dete
 date: 2025-10-01
 venue: 'IEEE Communications Magazine, 63(10), 136–142'
 paperurl: 'https://doi.org/10.1109/MCOM.003.2400401'
+topics: federated-learning, iot-security
 citation: 'Martínez Beltrán, Enrique Tomás, Sánchez Sánchez, Pedro Miguel, et al. (2025). "Flighter: Decentralized Federated Learning and Situational Awareness for Secure Military Aerial Reconnaissance." <i>IEEE Communications Magazine</i>, 63(10), 136–142.'
 ---
 

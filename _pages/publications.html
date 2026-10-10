@@ -14,6 +14,26 @@ ML/DL in IoT behavior security, and AI Trustworthiness.</div>
 
 {% include base_path %}
 
+<div class="pub-filters" id="pub-filters" hidden>
+  <input type="search" id="pub-search" placeholder="Search title, venue or keyword…" aria-label="Search publications">
+  <div class="pub-filter-row" data-filter="category">
+    <span class="pub-filter-label">Type</span>
+    <button type="button" class="pub-chip active" data-value="">All</button>
+    <button type="button" class="pub-chip" data-value="manuscripts">Journal</button>
+    <button type="button" class="pub-chip" data-value="conferences">Conference</button>
+  </div>
+  <div class="pub-filter-row" data-filter="topic">
+    <span class="pub-filter-label">Topic</span>
+    <button type="button" class="pub-chip active" data-value="">All</button>
+    <button type="button" class="pub-chip" data-value="federated-learning">Federated Learning</button>
+    <button type="button" class="pub-chip" data-value="iot-security">IoT Security</button>
+    <button type="button" class="pub-chip" data-value="trustworthy-ai">Trustworthy AI</button>
+    <button type="button" class="pub-chip" data-value="llm">LLMs</button>
+  </div>
+  <div class="pub-filter-row" data-filter="year" id="pub-years"><span class="pub-filter-label">Year</span></div>
+  <p class="pub-count" id="pub-count" aria-live="polite"></p>
+</div>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}

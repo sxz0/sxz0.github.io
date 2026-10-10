@@ -7,6 +7,7 @@ excerpt: 'Evaluation of compact state-of-the-art LLMs on core NLP tasks for Iber
 date: 2025-09-01
 venue: 'Procesamiento del Lenguaje Natural, 75, 95–106'
 paperurl: 'https://arxiv.org/abs/2504.03312'
+topics: llm
 citation: 'Couto Seller, Luís, Sanz Torres, Íñigo, Vogel-Fernández, Adrián, González Carballo, Carlos, Sánchez Sánchez, Pedro Miguel, Carruana Martín, Adrián, & de Miguel Ambite, Enrique. (2025). "Evaluating Compact LLMs for Zero-Shot Iberian Language Tasks on End-User Devices." <i>Procesamiento del Lenguaje Natural</i>, 75, 95–106.'
 ---
 

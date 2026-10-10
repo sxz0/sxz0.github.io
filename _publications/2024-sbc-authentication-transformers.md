@@ -7,6 +7,7 @@ excerpt: 'Individual authentication of identical IoT devices using hardware perf
 date: 2024-02-01
 venue: 'Computers & Security, 137, 103596'
 paperurl: 'https://doi.org/10.1016/j.cose.2023.103596'
+topics: iot-security
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2024). "Single-board device individual authentication based on hardware performance and autoencoder transformer models." <i>Computers & Security</i>, 137, 103596.'
 ---
 

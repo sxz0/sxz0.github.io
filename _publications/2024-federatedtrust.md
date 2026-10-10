@@ -7,6 +7,7 @@ excerpt: 'FederatedTrust, a framework that enhances trustworthiness in federated
 date: 2024-02-01
 venue: 'Future Generation Computer Systems, 152, 83-98'
 paperurl: 'https://doi.org/10.1016/j.future.2023.10.013'
+topics: federated-learning, trustworthy-ai
 citation: 'Sánchez Sánchez, Pedro Miguel et al. (2024). "FederatedTrust: A solution for trustworthy federated learning." <i>Future Generation Computer Systems</i>, 152, 83-98.'
 ---
 

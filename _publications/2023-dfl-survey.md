@@ -7,6 +7,7 @@ excerpt: 'Survey of decentralized federated learning covering architectures, top
 date: 2023-10-01
 venue: 'IEEE Communications Surveys & Tutorials, 25(4), 2983–3013'
 paperurl: 'https://doi.org/10.1109/COMST.2023.3315746'
+topics: federated-learning
 citation: 'Martínez Beltrán, Enrique Tomás, Pérez Quiles, Mario, Sánchez Sánchez, Pedro Miguel, et al. (2023). "Decentralized Federated Learning: Fundamentals, State of the Art, Frameworks, Trends, and Challenges." <i>IEEE Communications Surveys & Tutorials</i>, 25(4), 2983–3013.'
 ---
 

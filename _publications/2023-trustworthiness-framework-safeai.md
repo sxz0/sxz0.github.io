@@ -7,6 +7,7 @@ excerpt: 'An algorithm and web application that quantify the trustworthiness of 
 date: 2023-02-13
 venue: 'SafeAI 2023: The AAAI Workshop on Artificial Intelligence Safety'
 paperurl: 'https://ceur-ws.org/Vol-3381/1.pdf'
+topics: trustworthy-ai
 citation: 'Huertas Celdrán, Alberto, Kreischer, Jan, Demirci, Melike, Leupp, Joel, Sánchez Sánchez, Pedro Miguel, et al. (2023). "A Framework Quantifying Trustworthiness of Supervised Machine and Deep Learning Models." In <i>SafeAI 2023: The AAAI Workshop on Artificial Intelligence Safety</i>, CEUR Workshop Proceedings, 3381.'
 ---
 
